@@ -13,6 +13,7 @@
 		8824A54C2CA37E9800366487 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8824A54B2CA37E9800366487 /* Base */; };
 		8824A54E2CA37E9A00366487 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8824A54D2CA37E9A00366487 /* Assets.xcassets */; };
 		8824A5512CA37E9A00366487 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8824A5502CA37E9A00366487 /* Base */; };
+		8824A5592CA381FC00366487 /* Vehiculo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8824A5582CA381FC00366487 /* Vehiculo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8824A54D2CA37E9A00366487 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8824A5502CA37E9A00366487 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8824A5522CA37E9A00366487 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8824A5582CA381FC00366487 /* Vehiculo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehiculo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8824A5442CA37E9800366487 /* AppDelegate.swift */,
 				8824A5462CA37E9800366487 /* SceneDelegate.swift */,
 				8824A5482CA37E9800366487 /* ViewController.swift */,
+				8824A5582CA381FC00366487 /* Vehiculo.swift */,
 				8824A54A2CA37E9800366487 /* Main.storyboard */,
 				8824A54D2CA37E9A00366487 /* Assets.xcassets */,
 				8824A54F2CA37E9A00366487 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8824A5592CA381FC00366487 /* Vehiculo.swift in Sources */,
 				8824A5492CA37E9800366487 /* ViewController.swift in Sources */,
 				8824A5452CA37E9800366487 /* AppDelegate.swift in Sources */,
 				8824A5472CA37E9800366487 /* SceneDelegate.swift in Sources */,
