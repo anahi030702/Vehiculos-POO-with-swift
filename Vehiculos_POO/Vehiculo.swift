@@ -58,4 +58,5 @@ class Vehiculo: NSObject {
         
         print("velocidad actual:\(velAct)\nVelocidad maxima:\(velMax)")
     }
+    
 }

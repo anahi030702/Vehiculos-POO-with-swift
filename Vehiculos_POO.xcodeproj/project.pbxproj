@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8815493F2CA4F2E3009912BF /* Camion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8815493E2CA4F2E3009912BF /* Camion.swift */; };
 		8824A5452CA37E9800366487 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8824A5442CA37E9800366487 /* AppDelegate.swift */; };
 		8824A5472CA37E9800366487 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8824A5462CA37E9800366487 /* SceneDelegate.swift */; };
 		8824A5492CA37E9800366487 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8824A5482CA37E9800366487 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8815493E2CA4F2E3009912BF /* Camion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camion.swift; sourceTree = "<group>"; };
 		8824A5412CA37E9800366487 /* Vehiculos_POO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vehiculos_POO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8824A5442CA37E9800366487 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8824A5462CA37E9800366487 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				8824A5582CA381FC00366487 /* Vehiculo.swift */,
 				8824A54A2CA37E9800366487 /* Main.storyboard */,
 				8824A54D2CA37E9A00366487 /* Assets.xcassets */,
+				8815493E2CA4F2E3009912BF /* Camion.swift */,
 				8824A54F2CA37E9A00366487 /* LaunchScreen.storyboard */,
 				8824A5522CA37E9A00366487 /* Info.plist */,
 			);
@@ -144,6 +147,7 @@
 				8824A5592CA381FC00366487 /* Vehiculo.swift in Sources */,
 				8824A5492CA37E9800366487 /* ViewController.swift in Sources */,
 				8824A5452CA37E9800366487 /* AppDelegate.swift in Sources */,
+				8815493F2CA4F2E3009912BF /* Camion.swift in Sources */,
 				8824A5472CA37E9800366487 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

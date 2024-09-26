@@ -38,6 +38,12 @@ class ViewController: UIViewController {
         
         veh1.cambiarVelocidad(-50)
         
+        let cam1 = Camion()
+        
+        cam1.mostrarDato()
+        print(cam1)
+        
+        
     }
 
 
